@@ -1,0 +1,18 @@
+﻿Graph Info (The content is the brackets is the folder name)
+
+Category 1 :Varying number of edges(ver_edges)
+Set 1 : Fixed-100 vertices and minimum capacity of 20 and maximum capacity of 50(fd_100v_e_20c_50c)
+Set 2 : Fixed-100 vertices and minimum capacity of 30 and maximum capacity of 600(fd_100v_e_30c_600c)
+
+Category 2: Varying number of vertices(var_vertices)
+Set 1: Fixed- 10 edges, minimum capacity of 5 and maximum capacity of 500(fd_v_10e_5c_500c)
+Set 2: fixed - 20 edges, minimum capacity of 5 and maximum capacity of 500
+(fd_v_20e_5c_500c)
+
+Category 3:Varying minimum capacity(min_cap)
+Set 1: Fixed- 100 vertices, 30 edges and 100 maximum capacity(fd_100v_30e_c_100c)
+Set 2: Fixed- 500 vertices, 30edges and 100 maximum capacity(fd_500v_30e_c_100c)
+
+Category 4:Varying maximum capacity(max_cap)
+Set 1: Fixed- 100 vertices, 30 edges and 90 minimum capacity(fd_100v_30e_90c_c)
+Set 2: Fixed- 500 vertices, 30edges and 90 minimum capacity(fd_500v_30e_90c_c)
